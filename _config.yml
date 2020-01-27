@@ -1,0 +1,15 @@
+# Glayu Configuration
+
+# Site
+title: Bengtstorpets Odlarförening              # Site Title
+
+# URL
+permalink: categories/year/month/day/title  # Permalink format
+
+# Directories
+source_dir: source                          # Source folder
+public_dir: public                          # Destination folder
+
+# Theme
+theme: bt_dist                                   # Selected Theme under themes dir
+#theme_uri: https://github.com/pmartinezalvarez/glayu-times-theme/archive/master.zipafef
